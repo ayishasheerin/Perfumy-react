@@ -7,7 +7,7 @@ function Product() {
           
             <div className="box">
               
-                        <img src={one}/>
+                        <img src={one} alt="Producttitle"/>
                         <p>Fogg Wood Extreme, Eau De Parfum, Long-lasting Perfume, 100ml</p>    
             </div>
                   
